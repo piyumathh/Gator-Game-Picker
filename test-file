@@ -1,1 +1,9 @@
 
+
+int main() {
+    std::cout << "testing" << std::endl;
+
+    return 0;
+}
+
+/* added by tam for testing */
