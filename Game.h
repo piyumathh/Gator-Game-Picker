@@ -1,7 +1,3 @@
-//
-// Created by tamhu on 11/25/2021.
-//
-
 #include <string>
 
 class Game {
