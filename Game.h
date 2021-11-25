@@ -25,8 +25,3 @@ public:
     Game();
     Game(string[] arr, int[] arr2, double rating); // put info in array to clean it up
 };
-
-
-
-
-#endif //PROJECT3FILES_GAME_H
