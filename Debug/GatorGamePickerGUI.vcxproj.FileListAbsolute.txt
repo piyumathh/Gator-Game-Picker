@@ -1,0 +1,3 @@
+C:\Users\tamhu\source\repos\GatorGamePickerGUI\GatorGamePickerGUI\Debug\GatorGamePickerGUI.vcxprojAssemblyReference.cache
+C:\Users\tamhu\source\repos\GatorGamePickerGUI\GatorGamePickerGUI\Debug\GatorGamePickerGUI.MyForm.resources
+C:\Users\tamhu\source\repos\GatorGamePickerGUI\GatorGamePickerGUI\Debug\GatorGamePickerGUI.vcxproj.GenerateResource.cache
